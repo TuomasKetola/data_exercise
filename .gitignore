@@ -1,3 +1,11 @@
+# \
+juna_data/
+etc/
+trains.db
+.DS_Store
+bin/
+pyvenv.cfg
+share/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
